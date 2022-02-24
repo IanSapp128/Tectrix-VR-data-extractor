@@ -1,8 +1,8 @@
-# Tectrix VR bike data extractor
+# Tectrix VR bike and climber data extractor
 
-A python script to extract data from Tectrix VR Bike applications (**one** file).
+A python script to extract data from Tectrix VR Bike and Climber applications (**one** file).
 
-Currently extracts textures and models from Tectrix VR Bike applications. This initial release focuses on the Sweeny Town application and it's **one** file (any language) and exports textures and models to .bmp and .obj. There are plans to support the other applications, but each of the Tectrix applications have their data stored differently so the script will have to have checks for which application is being read and adjust accordingly.
+Currently extracts textures and models from Tectrix VR Bike and Climber applications. This initial release focuses on the Sweeny Town application and it's **one** file (any language) and exports textures and models to .bmp and .obj. There are plans to support the other applications, but each of the Tectrix applications have their data stored differently so the script will have to have checks for which application is being read and adjust accordingly. If you would like to download the Tectrix VR bike applications they can be found in [this worldpack .iso file](http://tulrich.com/tectrixvr/download.html) or from these [CD rips on archive.org](https://archive.org/details/TectrixVR).
 
 ### To-Do
 
