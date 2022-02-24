@@ -1,8 +1,8 @@
 # Tectrix VR bike data extractor
 
-A python script to extract data from Textrix VR Bike applications (**one** file).
+A python script to extract data from Tectrix VR Bike applications (**one** file).
 
-Currently extracts textures and models from Textrix VR Bike applications. This initial release focuses on the Sweeny Town application and it's **one** file (any language) and exports textures and models to .bmp and .obj. There are plans to support the other applications, but each of the Textrix applications have their data stored differently so the script will have to have checks for which application is being read and adjust accordingly.
+Currently extracts textures and models from Tectrix VR Bike applications. This initial release focuses on the Sweeny Town application and it's **one** file (any language) and exports textures and models to .bmp and .obj. There are plans to support the other applications, but each of the Tectrix applications have their data stored differently so the script will have to have checks for which application is being read and adjust accordingly.
 
 ### To-Do
 
@@ -12,7 +12,7 @@ Currently extracts textures and models from Textrix VR Bike applications. This i
 - Universal texture format for all applications
 - Fix color pallet on some applications
 
-Each one of the Textrix VR bike applications have their data stored differently so the script will have to have checks for which application is being read and adjust accordingly.
+Each one of the Tectrix VR bike applications have their data stored differently so the script will have to have checks for which application is being read and adjust accordingly.
 
 ### Known issues
 
