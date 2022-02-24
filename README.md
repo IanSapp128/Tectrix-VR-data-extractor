@@ -6,12 +6,10 @@ Currently extracts textures and models from Textrix VR Bike applications. This i
 
 ### To-Do
 
-- ~~Model extraction to .obj~~ *This has been implemented*
-
+- ~~Model extraction to .obj~~ *This has been implemented.*
+- Textured models *(Models are currenly not textured)*
 - Terrain extraction to .obj
-
 - Universal texture format for all applications
-
 - Fix color pallet on some applications
 
 Each one of the Textrix VR bike applications have their data stored differently so the script will have to have checks for which application is being read and adjust accordingly.
