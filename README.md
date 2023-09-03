@@ -19,5 +19,5 @@ Each one of the Textrix VR bike applications have their data stored differently 
 ### Known issues
 
 Currently, some of the images are corrupt upon export due to the way the bytes are stored. 
-
-
+The latest push resolves almost all of the textures in Sweeny Town not working. Some are still broken, but
+most are now exporting correctly. There seems to be a discrepancy with the byte sizes in the header.
